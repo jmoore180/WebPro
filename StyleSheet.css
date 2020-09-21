@@ -1,0 +1,47 @@
+body {
+	font-family: sans-serif;
+	background-image: url("https://codd.cs.gsu.edu/~jmoore180/snow.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+table {
+    border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+h3, h4 {
+	font-decoration: underline;
+	font-size: 20px;
+}
+
+h5 {
+	font-size: 20px;
+	text-align: center;
+}
+
+img{
+	width: 400px;
+	height: 500px;
+	border: 0px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
+	
